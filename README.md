@@ -2,6 +2,12 @@
 
 Deck dimensions and plans to reviewable material takeoffs.
 
+## Product documentation
+
+- [Product Requirements Document](docs/PRD.md)
+- [Architecture](docs/ARCHITECTURE.md)
+- [Implementation backlog](docs/BACKLOG.md)
+
 ## Start
 
 Node.js 22 or newer. No dependency installation required.
